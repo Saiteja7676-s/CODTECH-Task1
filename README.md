@@ -6,7 +6,7 @@
          Duration: 17 Oct - 17 Nov 2024
          Mentor: NEELA SANTOSH KUMAR
 
-Overview of the Project
+# Overview of the Project
 
 Project Title: Password Strength Checker
 
